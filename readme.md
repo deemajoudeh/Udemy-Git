@@ -1,5 +1,5 @@
-## udemy-git course
+## udemy- introduction to git and githup course
 ### first assigument
 
-name: deema joudeh
-note: good luck
+* name: deema joudeh
+* note: good luck
